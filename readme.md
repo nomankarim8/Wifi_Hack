@@ -13,7 +13,3 @@ Here's a breakdown of the script:
 4. Various algorithms: The script defines several algorithms for generating WPS pins, including:
 	* `pin24`, `pin28`, and `pin32` algorithms, which generate pins based on the MAC address.
 	* `pinDLink`, `pinDLink1`, `pinASUS`, `pinAirocon`, `pinEmpty`, `pinCisco`, `pinBrcm1`, `pinBrcm2`, `pinBrcm3`, `pinBrcm4`, `pinBrcm5`, `pinBrcm6`, `pinAirc1`, `pinAirc2`, `pinDSL2740R`, `pinRealtek1`, `pinRealtek2`, `pinRealtek3`, `pinUpvel`, `pinUR814AC`, `pinUR825AC`, `pinOnlime`, `pinEdimax`, `pinThomson`, `pinHG532x`, and `pinH108L` algorithms, which generate pins based on specific device or manufacturer information.
-
-To use this script, you would need to provide a MAC address and specify the type of device or algorithm you want to use. The script will then generate the corresponding WPS pin.
-
-Keep in mind that this script is designed to work with specific devices and algorithms, and its accuracy may vary depending on the device and firmware version.
