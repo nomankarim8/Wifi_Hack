@@ -1,15 +1,68 @@
-It appears that this is a Python script designed to generate WPS (Wi-Fi Protected Setup) pins for various devices. The script uses a combination of algorithms and MAC addresses to generate these pins.
+# Wifi_Hack
 
-Here's a breakdown of the script:
+## 🚀 About This Project
+This repository contains various tools and scripts related to Wi-Fi security testing and penetration testing. It is intended for **educational purposes only** to help users understand wireless network vulnerabilities and strengthen their security. 
 
-1. **NetworkAddress class**: This class is used to represent a MAC address, which is used to generate the WPS pin. It has methods for converting the MAC address between string and integer representations.
-2. **WPSpin class**: This class contains the logic for generating WPS pins. It has several methods:
-	* `generate`: This method generates a WPS pin based on the algorithm ID and MAC address.
-	* `getAll`: This method returns all possible WPS pin algorithms for a given MAC address.
-	* `getList`: This method returns a list of WPS pins for a given MAC address.
-	* `getSuggested`: This method returns a list of suggested WPS pins for a given MAC address.
-	* `getLikely`: This method returns the most likely WPS pin for a given MAC address.
-3. `_suggest` method: This method is used to suggest possible WPS pin algorithms based on the MAC address.
-4. Various algorithms: The script defines several algorithms for generating WPS pins, including:
-	* `pin24`, `pin28`, and `pin32` algorithms, which generate pins based on the MAC address.
-	* `pinDLink`, `pinDLink1`, `pinASUS`, `pinAirocon`, `pinEmpty`, `pinCisco`, `pinBrcm1`, `pinBrcm2`, `pinBrcm3`, `pinBrcm4`, `pinBrcm5`, `pinBrcm6`, `pinAirc1`, `pinAirc2`, `pinDSL2740R`, `pinRealtek1`, `pinRealtek2`, `pinRealtek3`, `pinUpvel`, `pinUR814AC`, `pinUR825AC`, `pinOnlime`, `pinEdimax`, `pinThomson`, `pinHG532x`, and `pinH108L` algorithms, which generate pins based on specific device or manufacturer information.
+## ⚠️ Disclaimer
+This project is meant **only for ethical hacking and cybersecurity learning**. Unauthorized access to networks is **illegal** and **punishable by law**. Use this repository responsibly.
+
+## 📜 Features
+- 📡 Scanning for Wi-Fi networks  
+- 🔓 Exploiting common Wi-Fi vulnerabilities  
+- 🔑 Cracking WPA/WPA2 passwords  
+- 📜 Bypassing MAC filtering  
+- 📶 Capturing handshake packets  
+
+## 🛠 Requirements
+To use the scripts in this repository, you may need:
+- Linux-based OS (Kali Linux, Parrot OS, etc.)
+- Python 3+
+- `aircrack-ng`
+- `reaver`
+- `hashcat`
+- `hcxdumptool`
+- `hcxtools`
+- Wireless network adapter supporting **monitor mode** and **packet injection**
+
+## 🔧 Installation
+```bash
+git clone https://github.com/nomankarim8/Wifi_Hack.git
+cd Wifi_Hack
+chmod +x install.sh
+./install.sh
+```
+
+## 📌 Usage
+### 🔍 Scan for available Wi-Fi networks:
+```bash
+sudo airodump-ng wlan0mon
+```
+
+### 🔑 Capture WPA/WPA2 handshake:
+```bash
+sudo airodump-ng -c <channel> --bssid <AP_MAC> -w capture wlan0mon
+```
+
+### 🛠 Crack the captured handshake using a wordlist:
+```bash
+aircrack-ng -w rockyou.txt -b <AP_MAC> capture.cap
+```
+
+## 📝 Legal Notice
+The creator of this repository **is not responsible for any misuse** of the scripts provided. **Test only on your own networks** or those with explicit permission.
+
+## 🤝 Contributing
+Pull requests and improvements are welcome! If you have useful scripts or ideas, feel free to contribute.
+
+## 📬 Contact
+- GitHub: [nomankarim8](https://github.com/nomankarim8)
+- YouTube: [Ride With Noman](https://www.youtube.com/c/RideWithNoman)
+
+---
+
+🔥 **Stay Ethical, Stay Secure!** 🔥
+```
+
+---
+
+This README is well-structured for a cybersecurity/ethical hacking project. Let me know if you want any modifications! 🚀
