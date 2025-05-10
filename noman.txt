@@ -361,3 +361,102 @@ Google Nest WiFi
 Google WiFi  
 Eero Pro 6  
 Eero Mesh WiFi  
+TL-WR841ND 7.0  
+TL-WR843ND 1.0  
+TL-WR847N 1.0  
+TL-WR849N 1.0  
+TL-WR854N  
+TL-WR720N 2.0  
+TL-WR743ND 2.0  
+TL-WR802N 1.0  
+TL-WR902AC 3.0  
+TL-WA7210N  
+TL-WA7510N  
+TL-WA860RE 2.0  
+TL-WPA4220KIT  
+TL-WPA8630  
+TL-WPA8631P  
+TL-WPA7510  
+TL-WPA7617  
+Archer C7 1.1  
+Archer C7 2.0  
+Archer C7 5.0  
+Archer AX10  
+Archer AX20  
+Archer AX23  
+Archer AX50  
+Archer AX55  
+Archer AX73  
+Archer AX90  
+Archer BE800  
+Archer BE900  
+Archer GX90  
+Archer MR600  
+Archer MR400  
+Archer T2U  
+Archer T3U  
+Archer T4U  
+Archer T6E  
+Archer TX20U  
+Archer TX3000E  
+Netgear RAX10  
+Netgear RAX20  
+Netgear RAX40  
+Netgear RAX50  
+Netgear RAX80  
+Netgear RAX120  
+Netgear RAX200  
+Netgear RS400  
+Netgear EX5000  
+Netgear EX6150v2  
+Netgear EX6920  
+Netgear EX8000v2  
+Netgear WNDR4300  
+Netgear WNDR4500  
+Netgear WNR834Bv2  
+Netgear WNR3500Lv2  
+Netgear WNR1000v3  
+Netgear C6300  
+Netgear C7000  
+Netgear Nighthawk M1  
+Netgear Nighthawk M5  
+ASUS RT-AX1800S  
+ASUS RT-AX3000  
+ASUS RT-AX55U  
+ASUS RT-AX86U Pro  
+ASUS RT-AX89X  
+ASUS RT-AX58U V2  
+ASUS RT-AX88U Pro  
+ASUS RT-AX6000  
+ASUS GT-AX11000  
+ASUS GT-AX6000  
+ASUS GT-AC2900  
+ASUS ZenWiFi AX (XT8)  
+ASUS ZenWiFi XD6  
+ASUS ZenWiFi ET8  
+D-Link DIR-3060  
+D-Link DIR-X5460  
+D-Link DIR-X1560  
+D-Link DIR-X1870  
+D-Link DIR-X6060  
+D-Link DIR-878  
+D-Link DIR-882  
+D-Link COVR-2202  
+D-Link COVR-1100  
+Tenda AC23  
+Tenda AC19  
+Tenda AC10U  
+Tenda Nova MW3  
+Tenda Nova MW5  
+Tenda Nova MW6  
+Tenda Nova MW12  
+Tenda RX3  
+Tenda RX9 Pro  
+Tenda RX12 Pro  
+Ubiquiti UniFi U6-LR  
+Ubiquiti UniFi U6-Lite  
+Ubiquiti UniFi U6-Pro  
+Ubiquiti EdgeRouter X  
+MikroTik hAP ax lite  
+MikroTik Chateau 5G  
+MikroTik Audience  
