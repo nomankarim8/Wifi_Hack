@@ -1132,6 +1132,7 @@ if __name__ == '__main__':
         action='store_true',
         help='Run in a loop'
     )
+    
     parser.add_argument(
         '-r', '--reverse-scan',
         action='store_true',
