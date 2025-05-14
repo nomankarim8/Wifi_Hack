@@ -1033,7 +1033,7 @@ def die(msg):
 
 def usage():
     return """
-OneShotPin 0.0.2 (c) 2017 rofl0r, modded by BiRi_B@B@
+OneShotPin 0.0.2 (c) 2017 rofl0r, modded by Nomankarim8
 
 %(prog)s <arguments>
 
