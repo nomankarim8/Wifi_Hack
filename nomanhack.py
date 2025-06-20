@@ -405,7 +405,7 @@ class BruteforceStatus:
 
     def clear(self):
         self.__init__()
- 
+
 
 class Companion:
     """Main application part"""
