@@ -37,7 +37,7 @@ chmod +x install.sh
 ```bash
 sudo airodump-ng wlan0mon
 ```
-
+ 
 ### 🔑 Capture WPA/WPA2 handshake:
 ```bash
 sudo airodump-ng -c <channel> --bssid <AP_MAC> -w capture wlan0mon
