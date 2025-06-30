@@ -410,6 +410,7 @@ class BruteforceStatus:
 
 
 
+
 class Companion:
     """Main application part"""
     def __init__(self, interface, save_result=False, print_debug=False):
