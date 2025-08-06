@@ -320,7 +320,7 @@ class WPSpin:
         + (((b[0] + b[1]) % 10) * 1000000)
         return pin
 
-
+ 
 def recvuntil(pipe, what):
     s = ''
     while True:
