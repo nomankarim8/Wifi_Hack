@@ -27,9 +27,9 @@ To use the scripts in this repository, you may need:
 ## 🔧 Installation
 ```bash
 git clone https://github.com/nomankarim8/Wifi_Hack.git
-cd Wifi_Hack
-chmod +x install.sh
-./install.sh
+cd nomanhack.py
+chmod +x noman.txt
+python3 nomanhack.py
 ```
 
 ## 📌 Usage
