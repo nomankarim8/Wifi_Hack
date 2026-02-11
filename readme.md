@@ -23,7 +23,7 @@ To use the scripts in this repository, you may need:
 - `hcxdumptool`
 - `hcxtools`
 - Wireless network adapter supporting **monitor mode** and **packet injection**
-
+ 
 ## 🔧 Installation
 ```bash
 git clone https://github.com/nomankarim8/Wifi_Hack.git
