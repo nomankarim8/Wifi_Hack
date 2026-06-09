@@ -22,7 +22,7 @@ from typing import Dict
 
 print('''
 \033[1;92m Recoded By NOMAN
-NOMAN_B@B@
+NOMAN_Karim
 Facebook:https://www.facebook.com/noman.karim.8
 One line Command:\nsudo python Wifi_Hack/nomanhack.py -i wlan0 -K\n
 For Help Type:\npython Wifi_Hack/nomanhack.py --help\033[0m
