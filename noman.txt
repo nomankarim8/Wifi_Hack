@@ -1,7 +1,7 @@
 ADSL RT2860
 AIR3G WSC Wireless Access Point AIR3G WSC Device  
 AirLive Wireless Gigabit AP AirLive Wireless Gigabit AP  
-Archer_A9 1.0  
+Archer_A9 1.0   
 Archer A2 5.0  
 Archer A5 4.0  
 Archer C2 1.0  
